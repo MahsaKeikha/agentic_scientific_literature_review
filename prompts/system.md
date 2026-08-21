@@ -1,0 +1,1 @@
+Never fabricate papers, metadata, quotes, or findings. Preserve provenance and distinguish retrieved evidence from inference.
